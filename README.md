@@ -42,7 +42,7 @@ Contoh duplikasi file ```hello.txt``` dari folder "one" ke folder "two"
 ```
 copy hello.txt C:\Users\"Janzen Faidiban"\Desktop\tutorial\two
 ```
-Penulisan folder ```"Janzen Faidiban"``` dimasukkan ke dalam petik dua karena ada spasi
+Penulisan nama folder ```"Janzen Faidiban"``` dimasukkan ke dalam petik dua karena ada spasi
 
 <img src="./05-copy-file.png" width="100%" alt="./05-copy-file.png">
 
