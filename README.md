@@ -56,11 +56,20 @@ Contoh membuka aplikasi Notepad di Windows, gunakan perintah
 Contoh membuka website SaCode di web browser, gunakan perintah ```start https://sacode.web.id```.
 <img src="./07-start-website-sacode.png" width="500px" alt="./07-start-website-sacode.png">
 
-```COMMAND```, text
-```COMMAND```, text
-```COMMAND```, text
-```COMMAND```, text
+```MKDIR```, membuat folder baru
+Contoh membuat folder baru dengan nama ```folder_1```, gunakan perintah ```mkdir folder_1```
+<img src="./08.png" width="500px" alt="./08.png">
 
+```RMDIR```, menghapus folder
+Contoh menghapus folder dengan nama ```folder_1```, gunakan perintah ```rmdir folder_1```
+<img src="./09.png" width="500px" alt="./09.png">
+
+```CLS```, membersihkan layar command prompt
+
+```RMDIR /s /q namafolder```, menghapus folder secara paksa. Biasanya, jika ada file / folder di dalam tersebut, akan muncul pesan batal. Sehingga perintah ini bisa digunakan untuk menghapus folder dan semua isinya.
+
+Contoh menghapus folder dengan perintah ```rmdir /s /q folder_1```
+<img src="./11.png" width="500px" alt="./11.png">
 
 ## Referensi Belajar
 
