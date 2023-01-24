@@ -39,12 +39,12 @@ Hasil tampilan dari perintah ```HELP``` di layar Command Prompt
 ```COPY```, menduplikasi file
 Contoh duplikasi file ```hello.txt``` dari folder "one" ke folder "two"
 
+<img src="./05-copy-file.png" width="100%" alt="./05-copy-file.png">
+
 ```
 copy hello.txt C:\Users\"Janzen Faidiban"\Desktop\tutorial\two
 ```
 Penulisan nama folder ```"Janzen Faidiban"``` dimasukkan ke dalam petik dua karena ada spasi
-
-<img src="./05-copy-file.png" width="100%" alt="./05-copy-file.png">
 
 ```COMMAND```, text
 ```COMMAND```, text
