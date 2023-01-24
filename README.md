@@ -25,8 +25,10 @@ Perintah ```HELP```, menampilkan bantuan atau referensi daftar 'commands'
 
 Ketik ```HELP``` atau ```help``` di Command Prompt, kemudian enter.
 
-
 <img src="./03-help.png" width="500px" alt="./03-help.png">
+
+Hasil tampilan dari perintah ```HELP``` di layar Command Prompt
+<img src="./04-help-result.png" width="500px" alt="./04-help-result.png">
 
 
 ## Referensi belajar
