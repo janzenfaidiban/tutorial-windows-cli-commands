@@ -30,25 +30,21 @@ Ketik ```HELP``` atau ```help``` di Command Prompt, kemudian enter.
 Hasil tampilan dari perintah ```HELP``` di layar Command Prompt
 <img src="./04-help-command-result.png" width="100%" alt="./04-help-command-result.png">
 
-```LS```, menampikan daftar folder
+```DIR```, menampikan daftar folder
 
-```cd namafolder```, buka folder
+```CD namafolder```, buka folder
 
-```cd..```, keluar dari folder satu level
+```CD..```, keluar dari folder satu level
 
-```copy```, menduplikasi file
+```COPY```, menduplikasi file
 Contoh duplikasi file ```hello.txt``` dari folder "one" ke folder "two"
-<img src="./05-copy-file.png" width="500" alt="./05-copy-file.png">
+<img src="./05-copy-file.png" width="100%" alt="./05-copy-file.png">
 
-```command```, text
-```command```, text
-```command```, text
-```command```, text
-```command```, text
-```command```, text
-```command```, text
-```command```, text
-```command```, text
+```COMMAND```, text
+```COMMAND```, text
+```COMMAND```, text
+```COMMAND```, text
+```COMMAND```, text
 
 
 ## Referensi Belajar
