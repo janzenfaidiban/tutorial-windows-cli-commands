@@ -28,7 +28,7 @@ Ketik ```HELP``` atau ```help``` di Command Prompt, kemudian enter.
 <img src="./03-help.png" width="500px" alt="./03-help.png">
 
 Hasil tampilan dari perintah ```HELP``` di layar Command Prompt
-<img src="./04-help-result.png" width="100%" alt="./04-help-result.png">
+<img src="./04-help-command-result.png" width="100%" alt="./04-help-command-result.png">
 
 
 ## Referensi belajar
