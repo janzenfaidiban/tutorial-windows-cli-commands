@@ -21,6 +21,14 @@ Tampilan Command Prompt ketika terbuka pertama kali
 
 ## Perintah DOS di Windows
 
+Perintah ```HELP```, menampilkan bantuan atau referensi daftar 'commands'
+
+Ketik ```HELP``` atau ```help``` di Command Prompt, kemudian enter.
+
+
+<img src="./03-help.png" width="500px" alt="./03-help.png">
+
+
 ## Referensi belajar
 
 Berikut sumber belajar yang bisa digunakan.
