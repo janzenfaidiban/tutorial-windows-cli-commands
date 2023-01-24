@@ -46,7 +46,21 @@ copy hello.txt C:\Users\"Janzen Faidiban"\Desktop\tutorial\two
 ```
 Penulisan nama folder ```"Janzen Faidiban"``` dimasukkan ke dalam petik dua karena ada spasi
 
-```COMMAND```, text
+```START```, membuka jendela baru dan jalankan program baru
+
+Contoh membuka aplikasi Notepad di Windows
+```
+start Notepad
+```
+
+<img src="./06-start-notepad.png" width="500px" alt="./06-start-notepad.png">
+
+Contoh membuka website SaCode di web browser
+```
+start https://sacode.web.id
+```
+<img src="./07-start-website-sacode.png" width="500px" alt="./07-start-website-sacode.png">
+
 ```COMMAND```, text
 ```COMMAND```, text
 ```COMMAND```, text
