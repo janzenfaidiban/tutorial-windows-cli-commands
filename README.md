@@ -12,7 +12,12 @@ Command Prompt merupakan program bawahan dari windows yang digunakan untuk menge
 
 Di bagian "search", ketik ```CMD``` atau ```Command Prompt``` dan pilih untuk tampilkan.
 
-<img src="./start-cmd.png" width="500px" alt="start-cmd.png">
+<img src="./01-start-cmd.png" width="500px" alt="./01-start-cmd.png">
+
+Tampilan Command Prompt ketika terbuka pertama kali
+<img src="./02-cmd-opened.png" width="500px" alt="./02-cmd-opened.png">
+
+
 
 ## Perintah DOS di Windows
 
