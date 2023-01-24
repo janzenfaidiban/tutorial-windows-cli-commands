@@ -15,6 +15,7 @@ Di bagian "search", ketik ```CMD``` atau ```Command Prompt``` dan pilih untuk ta
 <img src="./01-start-cmd.png" width="500px" alt="./01-start-cmd.png">
 
 Tampilan Command Prompt ketika terbuka pertama kali
+
 <img src="./02-cmd-opened.png" width="500px" alt="./02-cmd-opened.png">
 
 
@@ -28,6 +29,7 @@ Ketik ```HELP``` atau ```help``` di Command Prompt, kemudian enter.
 <img src="./03-help.png" width="500px" alt="./03-help.png">
 
 Hasil tampilan dari perintah ```HELP``` di layar Command Prompt
+
 <img src="./04-help-command-result.png" width="100%" alt="./04-help-command-result.png">
 
 ```DIR```, menampikan daftar folder dan file di dalam folder terpilih
@@ -54,20 +56,24 @@ Contoh membuka aplikasi Notepad di Windows, gunakan perintah
 <img src="./06-start-notepad.png" width="500px" alt="./06-start-notepad.png">
 
 Contoh membuka website SaCode di web browser, gunakan perintah ```start https://sacode.web.id```.
+
 <img src="./07-start-website-sacode.png" width="500px" alt="./07-start-website-sacode.png">
 
 ```MKDIR```, membuat folder baru
 Contoh membuat folder baru dengan nama ```folder_1```, gunakan perintah ```mkdir folder_1```
+
 <img src="./08.png" width="500px" alt="./08.png">
 
 ```RMDIR```, menghapus folder
 
 Contoh menghapus folder dengan nama ```folder_1```, gunakan perintah ```rmdir folder_1```
+
 <img src="./09.png" width="500px" alt="./09.png">
 
 ```RMDIR /s /q namafolder```, menghapus folder secara paksa. Biasanya, jika ada file / folder di dalam tersebut, akan muncul pesan batal. Sehingga perintah ini bisa digunakan untuk menghapus folder dan semua isinya.
 
 Contoh menghapus folder dengan perintah ```rmdir /s /q folder_1```
+
 <img src="./11.png" width="500px" alt="./11.png">
 
 ```CLS```, membersihkan layar command prompt
